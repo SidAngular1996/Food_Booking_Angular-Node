@@ -1,0 +1,63 @@
+Error: Reservation for booking Id: 1008 is not found!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:30:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Reservation for booking Id: 10011 is not found!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:30:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Reservation for booking Id: 1111 is not found!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:30:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Reservation for booking Id: 1111 is not found!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:30:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Reservation for booking Id: 1111 is not found!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:30:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Reservation for booking Id: 1111 is not found!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:30:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Reservation for booking Id: 1111 is not found!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:30:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Reservation for booking Id: 1005 is not found!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:30:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Buffet is already booked on this date!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:12:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Reservation for booking Id: 1005 is not found!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:30:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Reservation for booking Id: 1111 is not found!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:30:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Buffet is already booked on this date!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:12:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Booking date cannot be before today
+    at Object.Validator.validateDate (D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\Validator.js:6:15)
+    at Object.RestaurantBL.bookBuffet (D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\public\javascripts\RestaurantBL.js:9:15)
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\routes\routing.js:9:16
+    at Layer.handle [as handle_request] (D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\node_modules\express\lib\router\layer.js:95:5)
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\FA3\Assessment QP - Set 1\Angular6\RestaurantWS\node_modules\express\lib\router\index.js:275:10)
+Error: Reservation for booking Id: undefined is not found!
+    at D:\FA3\Assessment QP - Set 1\Angular6\RestaurantBooking_Sol\RestaurantWS\public\javascripts\RestaurantBL.js:30:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
